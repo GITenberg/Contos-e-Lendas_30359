@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31253'
     url: http://www.gutenberg.org/2009/agents/31253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30359#Contos-e-Lendas
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2009-10-29'
 gutenberg_type: Text
