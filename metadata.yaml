@@ -1,0 +1,30 @@
+_repo: Contos-e-Lendas_30359
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, Luiz Augusto Rebello da
+    aliases:
+    - Silva, Luis Augusto Rebelo da
+    - Silva, Luís Augusto Rebelo da
+    birthdate: 1822
+    deathdate: 1871
+    gutenberg_agent_id: '31253'
+    url: http://www.gutenberg.org/2009/agents/31253
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30359'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: Contos e Lendas
+url: http://www.gutenberg.org/ebooks/30359
